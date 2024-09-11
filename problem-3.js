@@ -13,5 +13,5 @@ function checkDigitsInName(name) {
 }
 
 
-// let x = checkDigitsInName("n9ayeem");
+// let x = checkDigitsInName(["Raj"]);
 // console.log(x);

@@ -18,6 +18,6 @@ function calculateFinalScore(obj) {
     }
 }
 
-// let obje = { name: "Rajib", testScore: 45,  schoolGrade: 25, isFFamily : true  };
+// let obje = { name: "Rajib", testScore: 15,  schoolGrade: 25, isFFamily : true  };
 // let cal = calculateFinalScore(obje);
 // console.log(cal);

@@ -8,5 +8,5 @@ function sendNotification(email) {
 }
 
 
-// let x = sendNotification("sadia8icloud.com");
+// let x = sendNotification("nadim.naem5@outlook.com");
 // console.log(x);

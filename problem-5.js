@@ -16,7 +16,7 @@ function waitingTime(waitingTimes, serialNumber) {
 }
 
 
-// let arr = 7;
-// let serialNum = 10;
+// let arr = [13, 2, 6, 7, 10];
+// let serialNum = 6;
 // let fun = waitingTime(arr, serialNum);
 // console.log(fun);
