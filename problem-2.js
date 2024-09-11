@@ -8,6 +8,5 @@ function sendNotification(email) {
 }
 
 
-// function call
-let x = sendNotification("sadia8icloud.com");
-console.log(x);
+// let x = sendNotification("sadia8icloud.com");
+// console.log(x);
