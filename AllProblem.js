@@ -80,3 +80,34 @@ function waitingTime(waitingTimes, serialNumber) {
 
 }
 
+
+//output:
+
+//prob:1
+// let tax = calculateTax(5000, 1500);
+// console.log(tax);
+
+
+
+//prob:2
+// let x = sendNotification("nadim.naem5@outlook.com");
+// console.log(x);
+
+
+//prob:3
+// let x = checkDigitsInName(["Raj"]);
+// console.log(x);
+
+
+//prob:4
+// let obje = { name: "Rajib", testScore: 15,  schoolGrade: 25, isFFamily : true  };
+// let cal = calculateFinalScore(obje);
+// console.log(cal);
+
+
+
+//prob:5
+// let arr = [13, 2, 6, 7, 10];
+// let serialNum = 6;
+// let fun = waitingTime(arr, serialNum);
+// console.log(fun);
